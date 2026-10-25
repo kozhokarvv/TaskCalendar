@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskCalendar</string>
+    <string name="screen_title">Мои задачи</string>
+    <string name="task_1">Задача 1: Сильно извиняюсь</string>
+    <string name="task_2">Задача 2: За задержку </string>
+    <string name="task_3">Задача 3: Все сделаю</string>
+</resources>
